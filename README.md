@@ -7,7 +7,7 @@
 
 %%%
 
-## Code Challenge
+### Code Challenge I 
 
 Take a look at the code below. We have defined a method, `returning_true` that uses a comparison operator, the `<` (less than) to compare the number 14 to...nothing. Fill out the necessary portion of the code so that the method will return `true`. Then, call the method.
 
@@ -29,6 +29,12 @@ returning_true
 assert.strictEqual(response,true);
 ```
 
+%%%
+
+%%%
+
+### Code Challanege II
+
 Here we have a method, `returning_false` that uses both comparison and boolean operators. Fill out the remainder of the method so that it returns false. Then, call the method.  
 
 
@@ -49,6 +55,12 @@ returning_false
 
 assert.strictEqual(response,false);
 ```
+
+%%%
+
+%%%
+
+### Code Challenge III
 
 Take a look at the method `using_truthiness` below. Fill out the missing portion so that the method returns false. Then, call the method. 
 
@@ -72,3 +84,7 @@ assert.strictEqual(response, false)
 ```
 
 %%%
+
+
+
+
