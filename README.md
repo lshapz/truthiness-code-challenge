@@ -11,7 +11,8 @@
 
 Take a look at the code below. We have defined a method, `returning_true` that uses a comparison operator, the `<` (less than) to compare the number 14 to...nothing. Fill out the necessary portion of the code so that the method will return `true`. Then, call the method.
 
-```ruby
+~~~ruby
+
 def returning_true	
 	14 < #your solution here
 end
@@ -27,7 +28,8 @@ returning_true
 ~~~ validation
  
 assert.strictEqual(response,true);
-```
+
+~~~
 
 %%%
 
@@ -38,7 +40,7 @@ assert.strictEqual(response,true);
 Here we have a method, `returning_false` that uses both comparison and boolean operators. Fill out the remainder of the method so that it returns false. Then, call the method.  
 
 
-```ruby 
+~~~ruby 
 def returning_false
 	7 > 4 && 100 < #your solution here
 end
@@ -54,7 +56,8 @@ returning_false
 ~~~validation 
 
 assert.strictEqual(response,false);
-```
+
+~~~
 
 %%%
 
@@ -64,7 +67,8 @@ assert.strictEqual(response,false);
 
 Take a look at the method `using_truthiness` below. Fill out the missing portion so that the method returns false. Then, call the method. 
 
-```ruby 
+~~~ruby 
+
 def using_truthiness
 	7 > 8 || #your solution here
 end
@@ -81,7 +85,8 @@ using_truthiness
 ~~~validation
 
 assert.strictEqual(response, false)
-```
+
+~~~
 
 %%%
 
