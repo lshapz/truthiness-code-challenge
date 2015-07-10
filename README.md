@@ -25,9 +25,9 @@ end
 
 returning_true
 
-~~~ validation
+~~~validation
  
-assert.strictEqual(response,true);
+assert.deepEqual(response,true);
 
 ~~~
 
@@ -55,7 +55,7 @@ returning_false
 
 ~~~validation 
 
-assert.strictEqual(response,false);
+assert.deepEqual(response,false);
 
 ~~~
 
@@ -84,7 +84,7 @@ using_truthiness
 
 ~~~validation
 
-assert.strictEqual(response, false)
+assert.deepEqual(response, false)
 
 ~~~
 
