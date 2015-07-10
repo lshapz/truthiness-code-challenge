@@ -17,7 +17,7 @@ def returning_true
 	14 < #your solution here
 end
 
-# DON'T touch the following line! 
+# DO NOT touch the following line! 
 
 returning_true
 
@@ -50,7 +50,7 @@ def returning_false
 	7 > 4 && 100 < #your solution here
 end
 
-#Don't touch the following line!
+#DO NOT touch the following line!
 
 returning_false
 
@@ -82,7 +82,7 @@ def using_truthiness
 	7 > 8 || #your solution here
 end
 
-#Don't touch the following line!
+#Do NOT touch the following line!
 
 using_truthiness
 
