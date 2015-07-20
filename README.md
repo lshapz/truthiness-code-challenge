@@ -17,7 +17,7 @@ def returning_true
 	14 < #your solution here
 end
 
-# DO NOT touch the following line! 
+# DO NOT touch the following line!
 
 returning_true
 
@@ -30,7 +30,7 @@ end
 returning_true
 
 ~~~validation
- 
+
 assert_equal(response, true)
 
 ~~~
