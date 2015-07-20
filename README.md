@@ -31,7 +31,7 @@ returning_true
 
 ~~~validation
  
-assert_equal(response,true)
+assert_equal(response, true)
 
 ~~~
 
@@ -64,7 +64,7 @@ returning_false
 
 ~~~validation 
 
-assert_equal(response,false)
+assert_equal(response, false)
 
 ~~~
 
