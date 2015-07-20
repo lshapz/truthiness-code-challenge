@@ -21,7 +21,7 @@ end
 
 returning_true
 
-~~~solution 
+~~~solution
 
 def returning_true
 	14 < 20
@@ -44,7 +44,7 @@ assert_equal(response, true)
 Here we have a method, `returning_false` that uses both comparison and boolean operators. Fill out the remainder of the method so that it returns false. Then, call the method.  
 
 
-~~~ruby 
+~~~ruby
 
 def returning_false
 	7 > 4 && 100 < #your solution here
@@ -62,7 +62,7 @@ end
 
 returning_false
 
-~~~validation 
+~~~validation
 
 assert_equal(response, false)
 
@@ -76,7 +76,7 @@ assert_equal(response, false)
 
 Take a look at the method `using_truthiness` below. Fill out the missing portion so that the method returns false. Then, call the method. 
 
-~~~ruby 
+~~~ruby
 
 def using_truthiness
 	7 > 8 || #your solution here
@@ -86,7 +86,7 @@ end
 
 using_truthiness
 
-~~~solution 
+~~~solution
 
 def using_truthiness
 	7 > 8 || 8 < 7
@@ -101,7 +101,4 @@ assert_equal(response, false)
 ~~~
 
 %%%
-
-
-
 
