@@ -39,7 +39,7 @@ assert_equal(response, true)
 
 %%%
 
-### Code Challanege II
+### Code Challenge II
 
 Here we have a method, `returning_false` that uses both comparison and boolean operators. Fill out the remainder of the method so that it returns false. Then, call the method.  
 
