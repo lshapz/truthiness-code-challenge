@@ -7,11 +7,9 @@
 
 ???
 
-# Code Challenge I
+# Code Challenge
 
-?: Take a look at the code below. We have defined a method, `returning_true` that uses a comparison operator, the `<` (less than) to compare the number 14 to... nothing.
-
-What value(s) for `?` will make `returning_true` return `true`?
+?: Take a look at the code below. We have defined a method, `returning_true` that uses a comparison operator, the `<` (less than) to compare the number 14 to... nothing. What value(s) for `?` will make `returning_true` return `true`?
 
 ``` ruby
 def returning_true
@@ -24,10 +22,7 @@ end
 [ ] 14
 [x] 17
 
-
-?: Here we have a method, `returning_false` that uses both comparison and boolean operators.
-
-What value(s) for `?` will make `returning_false` return `false`?
+?: Here we have a method, `returning_false` that uses both comparison and boolean operators. What value(s) for `?` will make `returning_false` return `false`?
 
 ``` ruby
 def returning_false
@@ -40,16 +35,7 @@ end
 [ ] 102
 [ ] 103
 
-???
-
-???
-
-# Code Challenge III
-
-?: Take a look at the method `using_truthiness` below.
-
-What value(s) for `?` will make `using_truthiness` return `false`?
-
+?: Take a look at the method `using_truthiness` below. What value(s) for `?` will make `using_truthiness` return `false`?
 
 ```ruby
 def using_truthiness
