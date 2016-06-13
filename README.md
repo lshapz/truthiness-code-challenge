@@ -43,7 +43,7 @@ def using_truthiness
 end
 ```
 
-[x] false
+[ ] true
 [x] 8 > 9
 [x] !true
 [x] 9 < 6
@@ -64,3 +64,5 @@ end
 ???
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/truthiness-code-challenge' title='Truthiness Code Challenge'>Truthiness Code Challenge</a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/truthiness-code-challenge'>Code Challenge</a> on Learn.co and start learning to code for free.</p>
